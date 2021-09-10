@@ -1,0 +1,9 @@
+Module - 
+
+It is a mechanism for splitting JS program into seprate modules that can be imorted when required - jab jarurat hai tab import 
+
+if we will build twitter app - we can't write it into one file
+
+There are two moduling mechanism
+1. CommonJS modules
+2. ES6 modules
