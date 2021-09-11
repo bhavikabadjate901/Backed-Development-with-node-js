@@ -7,3 +7,5 @@ if we will build twitter app - we can't write it into one file
 There are two moduling mechanism
 1. CommonJS modules
 2. ES6 modules
+
+
