@@ -8,3 +8,8 @@ Aplications server --> webserver++, synamic content
 middleware -->  API -> set of funtions ->request 
 
 
+client --> req --> [server] --> dedicated route (app.get('/')) ==> passes req, res to all the middleware --> execute the call back
+
+api/v3 --> v3 is api versioning
+
+req.params -> to access the parameters from url
