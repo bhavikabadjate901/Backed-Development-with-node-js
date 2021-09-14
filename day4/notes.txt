@@ -1,0 +1,7 @@
+Webserver --> mostly static website
+            HTTP
+            Less traffic
+
+Aplications server --> webserver++, synamic content
+                       buissness logic
+

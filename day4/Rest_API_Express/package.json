@@ -1,0 +1,14 @@
+{
+  "name": "rest_api_express",
+  "version": "1.0.0",
+  "description": "Rest API demo using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavika Badjate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
