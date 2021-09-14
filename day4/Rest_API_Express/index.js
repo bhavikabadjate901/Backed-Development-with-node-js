@@ -1,1 +1,3 @@
-console.log("Hello World");
+import { start } from "./src/server.js"
+
+start();
