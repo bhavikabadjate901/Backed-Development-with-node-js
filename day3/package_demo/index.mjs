@@ -26,7 +26,7 @@ const data = await response1.json();
 console.log(data.sessions[0]['slots']);
 
 
-// Try to fetch data of all districts of a states\
+// Try to fetch data of all districts of a states
 // for each state filter the centers which has vaccine of user choice
-// filter each data point based on whether user wants free or paid vacc
-// send an email periodically
+// filter each data point based on whether user wants free or paid vacc 
+// send an email periodically - use cron job and node mailer

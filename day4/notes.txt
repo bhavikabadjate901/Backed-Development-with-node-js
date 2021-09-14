@@ -5,3 +5,6 @@ Webserver --> mostly static website
 Aplications server --> webserver++, synamic content
                        buissness logic
 
+middleware -->  API -> set of funtions ->request 
+
+
