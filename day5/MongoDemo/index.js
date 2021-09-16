@@ -17,7 +17,7 @@ const blog = new Mongoose.Schema({
 
 )
 
-const Blog = Mongoose.model('blog', blog);
+const Blog = Mongoose.model('blog', blog); 
 
 
 connect()
@@ -25,4 +25,4 @@ connect()
      const b = await Blog.create({title: 'Learn Mongo', description: 'Learning Mongo is amazing' });
      console.log(b);
 })
-.catch(err => console.error(err))
+.catch(err => console.error(err)) 
